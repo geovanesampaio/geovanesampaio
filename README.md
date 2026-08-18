@@ -4,7 +4,7 @@
 
 ### Engenharia da Computação | Infraestrutura de TI | Redes | Telecom | Servidores & Data Center
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:07111f,50:0b1d36,100:07111f&text=INFRASTRUCTURE%20%7C%20NETWORKS%20%7C%20TELECOM&fontColor=38e8ff&fontSize=26&fontAlignY=38&desc=Servidores%20•%20Data%20Center%20•%20Virtualiza%C3%A7%C3%A3o%20•%20Observabilidade&descAlignY=61&descSize=14&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:07111f,50:0b1d36,100:07111f&text=INFRASTRUCTURE%20%7C%20NETWORKS%20%7C%20TELECOM&fontColor=38e8ff&fontSize=26&fontAlignY=38&desc=Servidores%20•%20Data%20Center%20•%20Virtualiza%C3%A7%C3%A3o%20•%20Monitoramento&descAlignY=61&descSize=14&animation=fadeIn" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-geovanesampaio-0b1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanesampaio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Geovane%20Sampaio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-sampaio/)
