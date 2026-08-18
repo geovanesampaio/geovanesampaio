@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Geovane de Moura Sampaio
+# 👨‍💻 Geovane Sampaio
 
 ### Engenharia da Computação | Infraestrutura de TI | Redes | Telecom | Servidores & Data Center
 
