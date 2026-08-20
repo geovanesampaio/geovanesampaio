@@ -12,18 +12,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://avatars.githubusercontent.com/u/90265005?v=4" width="155" alt="Geovane Sampaio" />
-
-**Geovane de Moura Sampaio**  
-Engenharia da Computação  
-Ceará · Brasil 🇧🇷
-
-</td>
-<td width="68%" valign="middle">
+## `> whoami`
 
 ```text
 $ whoami
@@ -40,13 +29,7 @@ $ status
 ● ONLINE  |  aprendendo • testando • evoluindo
 ```
 
-</td>
-</tr>
-</table>
-
-## Perfil técnico
-
-Atuação e estudos concentrados em **infraestrutura de TI, redes de computadores, telecomunicações, fibra óptica, servidores, storage e virtualização**, com interesse em ambientes robustos, automação e observabilidade.
+Profissional direcionado para **infraestrutura de TI, redes de computadores, telecomunicações, fibra óptica, servidores, storage e virtualização**, com interesse em ambientes robustos, automação e observabilidade.
 
 ---
 
@@ -110,8 +93,7 @@ Atuação e estudos concentrados em **infraestrutura de TI, redes de computadore
 
 ## Formação
 
-**Engenharia da Computação**  
-Direcionamento profissional: **Infraestrutura de TI · Redes · Telecom · Servidores · Storage · Data Center**
+**Engenharia da Computação**
 
 ---
 
