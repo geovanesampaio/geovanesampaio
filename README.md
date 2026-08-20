@@ -1,129 +1,90 @@
 <div align="center">
 
-# Geovane de Moura Sampaio
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=GEOVANE%20SAMPAIO&fontSize=42&fontColor=EAF7FF&fontAlignY=38&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Infraestrutura%20de%20TI%20%E2%80%A2%20Redes%20%E2%80%A2%20Telecom&descAlignY=62&descSize=14&color=0:07111F,45:0B1D36,75:102A43,100:07111F&animation=fadeIn" width="100%" />
 
 ### Engenharia da Computação · Infraestrutura de TI · Redes · Telecom · Servidores & Data Center
 
-**Infraestrutura • Redes • Telecomunicações • Servidores • Data Center**
-
-[GitHub](https://github.com/geovanesampaio) · [LinkedIn](https://www.linkedin.com/in/geovane-sampaio/) · [E-mail](mailto:geovanemsampaio@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-geovanesampaio-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanesampaio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geovane%20Sampaio-0B1220?style=flat-square&logo=linkedin&logoColor=38E8FF)](https://www.linkedin.com/in/geovane-sampaio/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-0B1220?style=flat-square&logo=gmail&logoColor=38E8FF)](mailto:geovanemsampaio@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mim
+## `> whoami`
 
-Profissional da área de **Telecomunicações e Infraestrutura**, com foco em **redes de computadores, fibra óptica, servidores, storage, virtualização, monitoramento e suporte técnico**.
+Profissional direcionado para **Telecomunicações e Infraestrutura**, com foco em **redes de computadores, fibra óptica, servidores, storage, virtualização, monitoramento e suporte técnico**.
 
-Meu objetivo é desenvolver soluções de infraestrutura **estáveis, seguras, organizadas e escaláveis**, unindo conhecimento de hardware, redes, sistemas e serviços.
+> Construir e manter ambientes de TI **confiáveis, organizados, seguros e escaláveis**.
 
 ---
 
-## Áreas de atuação
+## Especialização
 
-| 🌐 Redes & Telecom | 🖥️ Servidores | 💾 Data Center | ⚙️ Infraestrutura |
-|---|---|---|---|
-| Redes de computadores | Dell | Storage | Proxmox |
-| Fibra óptica | HPE | RAID / HBA | PNETLab |
-| MikroTik | Lenovo | SAS / SATA | QEMU |
-| Cisco | Hardware corporativo | Data Center | Linux |
+| 🌐 Redes & Telecom | 🖥️ Servidores & Hardware |
+|---|---|
+| Redes de computadores · Fibra óptica · MikroTik · Cisco | Dell · HPE · Lenovo · RAID · HBA · SAS |
+
+| 💾 Storage & Data Center | ⚙️ Virtualização & Sistemas |
+|---|---|
+| Storage · Data Center · HDD · SSD · infraestrutura | Proxmox VE · PNETLab · QEMU · Linux · Debian |
 
 ---
 
 ## Stack tecnológico
 
-### Redes & Telecom
+<div align="center">
 
-`MikroTik` `Cisco` `TCP/IP` `Routing` `Switching` `VLAN` `VPN` `Fibra Óptica`
+`MikroTik` · `Cisco` · `TCP/IP` · `VLAN` · `VPN` · `Fibra Óptica`  
+`Dell PowerEdge` · `HPE ProLiant` · `Lenovo` · `RAID` · `HBA` · `SAS`  
+`Proxmox VE` · `PNETLab` · `QEMU` · `Linux` · `Debian`  
+`Zabbix` · `Grafana` · `Cloudflare Zero Trust` · `WireGuard`
 
-### Servidores & Storage
-
-`Dell PowerEdge` `HPE ProLiant` `Lenovo` `Intel Xeon` `ECC` `RAID` `HBA` `SAS` `SSD` `HDD`
-
-### Virtualização & Sistemas
-
-`Proxmox VE` `PNETLab` `QEMU` `Linux` `Debian`
-
-### Monitoramento & Segurança
-
-`Zabbix` `Grafana` `Cloudflare Zero Trust` `WireGuard`
+</div>
 
 ---
 
-## Laboratório de infraestrutura
+## Laboratório
 
-Ambiente de estudos voltado para **redes, virtualização, servidores e monitoramento**, utilizando ferramentas e tecnologias presentes no dia a dia de ambientes corporativos.
+Ambiente de estudos e testes voltado para **infraestrutura de redes, virtualização, servidores e observabilidade**.
 
 ```text
-                    INTERNET
-                        │
-                ┌───────▼───────┐
-                │   NETWORK     │
-                │ MikroTik/Cisco│
-                └───────┬───────┘
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-      ┌───▼───┐     ┌───▼───┐    ┌────▼────┐
-      │Proxmox│     │PNETLab│    │WireGuard│
-      └───┬───┘     └───────┘    └─────────┘
-          │
-      ┌───▼─────────────────────┐
-      │ Linux · Zabbix · Grafana│
-      └─────────────────────────┘
+NETWORK ──► VIRTUALIZATION ──► OBSERVABILITY
+  │              │                    │
+MikroTik      Proxmox               Zabbix
+Cisco         PNETLab               Grafana
+WireGuard     QEMU                 Linux
+Cloudflare
 ```
 
 ---
 
 ## Projetos em destaque
 
-### [Mikrotik-Proximo](https://github.com/geovanesampaio/Mikrotik-Proximo)
-Laboratório relacionado a **MikroTik, redes e Proxmox**.
-
-### [ProxmoxVE](https://github.com/geovanesampaio/ProxmoxVE)
-Estudos e configurações de **virtualização com Proxmox VE**.
-
-### [Zabbix](https://github.com/geovanesampaio/Zabbix)
-Recursos e estudos para **monitoramento de infraestrutura**.
-
-### [Wireguard](https://github.com/geovanesampaio/Wireguard)
-Laboratório de **VPN e conectividade segura**.
-
-### [Zabbix-Grafana-Wireguard](https://github.com/geovanesampaio/Zabbix-Grafana-Wireguard)
-Integração de **monitoramento, visualização e acesso seguro**.
-
-### [Debian](https://github.com/geovanesampaio/Debian)
-Estudos relacionados a **Linux/Debian e infraestrutura**.
+| Projeto | Foco |
+|---|---|
+| [**Mikrotik-Proximo**](https://github.com/geovanesampaio/Mikrotik-Proximo) | MikroTik + Proxmox |
+| [**ProxmoxVE**](https://github.com/geovanesampaio/ProxmoxVE) | Virtualização |
+| [**Zabbix**](https://github.com/geovanesampaio/Zabbix) | Monitoramento |
+| [**Wireguard**](https://github.com/geovanesampaio/Wireguard) | VPN / conectividade segura |
+| [**Zabbix-Grafana-Wireguard**](https://github.com/geovanesampaio/Zabbix-Grafana-Wireguard) | Observabilidade + acesso seguro |
+| [**Debian**](https://github.com/geovanesampaio/Debian) | Linux / infraestrutura |
 
 ---
 
-## Formação & objetivo profissional
+## Formação & direção profissional
 
 **Engenharia da Computação**
 
-**Foco profissional:**
-
-- Infraestrutura de TI
-- Redes de computadores
-- Telecomunicações
-- Fibra óptica
-- Servidores e Storage
-- Data Center
-- Virtualização
-- Monitoramento
-- Suporte e manutenção técnica
+Direcionamento para **Infraestrutura de TI, Redes, Telecomunicações, Servidores, Storage, Virtualização e Data Center**.
 
 ---
 
-## Conecte-se
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-geovanesampaio-181717?style=for-the-badge&logo=github)](https://github.com/geovanesampaio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geovane%20Sampaio-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geovane-sampaio/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail)](mailto:geovanemsampaio@gmail.com)
+### `INFRASTRUCTURE · NETWORKS · TELECOM · SERVERS · DATA CENTER`
 
-**Infrastructure · Networks · Telecom · Servers · Data Center**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:07111F,50:0B1D36,100:07111F" width="100%" />
 
 </div>
